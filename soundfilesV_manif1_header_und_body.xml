@@ -5,7 +5,7 @@
 <meiHead>
   <fileDesc>
           <titleStmt>
-              <title>Codierung von Soundfile Nr. V</title>
+              <title>Codierung von Soundfile Nr. V</title> 
           </titleStmt>
           <pubStmt/><!--Autor:in, Ziel, Entstehungskontext,... -->
   </fileDesc>
@@ -85,7 +85,7 @@
                   <relation rel="isPartOf" target="#soundfilesV_manif1"/>
                </relationList>
             </manifestation>
-         </componentList>   
+         </componentList>
          <relationList>
             <relation rel="isEmbodimentOf" target="#soundfilesV_expr1"/>
             <relation rel="hasPart" target="#soundfilesV_source1"/>
@@ -138,10 +138,10 @@
                  </staff>
                   <staff n="2">
                  </staff>
-            </timeSpan>   
+            </timeSpan>
                <timeSpan unit="second" n="2" xml:id="second_02" facs="#zone_02">
                   <staff n="2">
-                       <layer n="1"/>  
+                       <layer n="1"/>
                     </staff>
                </timeSpan>
             </section>
